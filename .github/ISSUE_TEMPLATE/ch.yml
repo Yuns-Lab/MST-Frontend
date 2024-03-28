@@ -1,7 +1,7 @@
 name: "优化建议"
 description: "对已有功能的小幅度优化或改进建议"
 labels: [· 优化, 新反馈]
-project: Yuns-Lab/3
+projects: Yuns-Lab/3
 body:
 - type: checkboxes
   id: "yml-1"
