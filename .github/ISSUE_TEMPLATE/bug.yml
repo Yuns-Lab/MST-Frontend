@@ -2,7 +2,7 @@ name: Bug 反馈
 description: 向我们反馈你遇到的意外问题
 labels: [· Bug, 新反馈]
 title: Bug > 
-projects: Yuns-Lab/MST-Frontend/1
+projects: Yuns-Lab/1
 body:
 - type: checkboxes
   id: "yml-1"
